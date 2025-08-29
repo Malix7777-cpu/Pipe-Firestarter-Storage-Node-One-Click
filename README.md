@@ -1,5 +1,4 @@
 
-### [Join the Pipe Dc](https://discord.gg/fhVwSe8j)
 
 ## 🎯 How to Earn the 🔥Firestarter Role
 
@@ -14,7 +13,7 @@
 - **Share your tweet link** in the `#pipe-community-social` channel on Discord.
 - The team will **verify** and grant you the role!
 
-**👉 [Join the Discord server](https://discord.gg/fyDRfCVWJA) to get started!**
+**👉 [Join the Discord server](https://discord.gg/bEJ3YCHm) to get started!**
 
 ---
 
