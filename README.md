@@ -198,7 +198,6 @@ pipe token-usage
 
  📺 **Guides & Updates:** [@LEGENDARYLOOTERSSS](https://t.me/LEGENDARYLOOTERSSS)
 
-Thank U! 👨🏻‍💻    Happy Coding💗
-Thank U! 👨🏻‍💻    Happy Coding💗
+😁 Thanks a lot! 👻 Keep building, keep coding & keep shining 💗🔥☠
 
 </pre>
