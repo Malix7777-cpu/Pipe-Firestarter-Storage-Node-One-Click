@@ -3,7 +3,7 @@
 ## 🎯 How to Earn the 🔥Firestarter Role
 
 ### 1. Share Your Contribution Proof
-- **Upload your video(s)** using the menu.
+- **Upload your video(s)**
 - **Take a screenshot** of your uploaded file info (showing the public link).
 - **Post the screenshot and public link** in the `#firestarter-storage-share` channel on Discord.
 - The team will **verify** and grant you the role!
