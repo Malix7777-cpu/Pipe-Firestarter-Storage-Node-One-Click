@@ -1,3 +1,18 @@
+<div align="left">
+
+#  **Pipe Firestarter📔**
+
+⚡ Decentralized storage & delivery network
+🔒 Secure | Fast | Censorship-resistant
+💰 Powered by $PIPE tokens (1 PIPE ≈ 1GB)
+🌍 Built on Solana → Already storing 1PB+ data
+
+🚀 Future of Storage + CDN + Edge Compute
+
+</div>
+
+---
+
 # Pre-Requirements 🛠
 
 ## Install All Require Dependecies
